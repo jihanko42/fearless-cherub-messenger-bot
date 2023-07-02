@@ -1,0 +1,19 @@
+{
+  "name": "fearless-cherub-messenger-bot",
+  "version": "1.0.0",
+  "description": "discord messenger bot for fearless cherub guild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihanko42/fearless-cherub-messenger-bot.git"
+  },
+  "author": "jihanko42",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihanko42/fearless-cherub-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/jihanko42/fearless-cherub-messenger-bot#readme"
+}
